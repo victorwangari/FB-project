@@ -1,0 +1,94 @@
+body{
+    background-color: rgba(225, 240, 243, 0.863);
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fb-logo{
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ img{
+    width: 20%;
+    
+    
+    
+}
+.login{
+
+    background-color: #fff;
+    margin-top: 14px;
+    margin: auto;
+    padding: 0 0 14px 0;
+    width: 600px;
+    height: 450px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1),0 8px 16px rgba(0, 0, 0, .1)
+    
+    
+}
+
+
+.heading, .Details, .forgot{
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 300;
+    color: rgb(88, 82, 82);
+    
+}
+.Details{
+    
+    border: 10px ;
+    margin-bottom: 14px;
+    margin-top: 14px ;
+
+}
+.email, .password, .btn{
+
+    margin-bottom: 9px;
+    border: 2px solid rgb(211, 208, 208);
+    width: 500px;
+    height: 50px;
+    border-radius: 7px; 
+}
+.btn{
+    width: 510px;
+
+    font-size: 20px;
+    font-weight: 700;
+    background-color: rgba(5, 66, 233, 0.849);
+    color: #fff;
+    cursor: pointer;
+}
+.forgot{
+    font-size: 18px;
+    
+}
+a {
+    text-decoration: none;
+    color: rgb(77, 87, 216);
+    
+}
+.create a{
+    padding-left: 10px;
+}
+.forgot p{
+    color: #fff;
+
+}
+a:hover{
+    text-decoration: underline;
+   
+}
+:placeholder-shown{
+    font-size: 15px;
+}
+
+
